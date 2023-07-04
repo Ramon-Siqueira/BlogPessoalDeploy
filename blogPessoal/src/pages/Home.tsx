@@ -48,7 +48,7 @@ function Home() {
                     </Box>
                 </Grid>
                 <Grid item xs={6} >
-                    <img src="https://images.template.net/84576/free-medieval-dragon-vector-p2k8u.jpg" alt="" width="500px" height="500px" />
+                    <img src="https://i.imgur.com/H88yIo2.png" alt="" width="500px" height="500px" />
                 </Grid>
                 <Grid xs={12} className='postagens'>
                     <TabPostagem />
